@@ -36,7 +36,21 @@ Figure 02  Encoder 8 * 3
 
 **Procedure**
 
-/* write all the steps invloved */
+Open Quartus Prime and create a new Verilog project.
+
+Write the Verilog code for the Encoder 8 to 3 in dataflow modeling.
+
+Compile the design and check for any errors.
+
+Generate the RTL schematic to verify the circuit.
+
+Create a testbench to simulate the encoder functionality.
+
+Apply different input combinations and observe the output in binary as per the truth table.
+
+Generate the timing diagram to visualize the encoder operation over time.
+
+Validate the results by comparing the simulation output with the expected truth table.
 
 **PROGRAM**
 
@@ -56,6 +70,10 @@ Developed by:Thamizh.S RegisterNumber:24900483
 
 
 **RESULTS**
+
+
+
+The Encoder 8 to 3 was successfully implemented using dataflow modeling in Verilog, and its functionality was validated using the truth table. The output correctly corresponds to the active input line as expected.
 
 
 
